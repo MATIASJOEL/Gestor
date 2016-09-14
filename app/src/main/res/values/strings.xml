@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Validaciones</string>
+    <string name="Nombre">Escriba su nombre</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtEmail">Email</string>
+    <string name="Email">Escriba su Email</string>
+    <string name="Aceptar">btnAceptar</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="email_error">ERROR EMAIL</string>
+    <string name="nombre_error">ERROR NOMBRE</string>
+</resources>
